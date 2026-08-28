@@ -10,17 +10,17 @@ profile:
   image_circular: false
 
 selected_papers: false
-social: true
+social: false
 
 announcements:
-  enabled: true
-  scrollable: true
-  limit: 5
+  enabled: false
+  scrollable: false
+  limit:
 
 latest_posts:
   enabled: false
   scrollable: false
-  limit: 3
+  limit:
 ---
 
 <div
