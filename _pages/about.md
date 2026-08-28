@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: "PhD Candidate at Zhejiang University<br><span style='font-size: 0.95rem;'>liyinzhang (at) zju.edu.cn &nbsp;&nbsp; liyinzhang041 (at) gmail.com</span>"
+subtitle: "liyinzhang (at) zju.edu.cn &nbsp;&nbsp; liyinzhang041 (at) gmail.com</span>"
 
 profile:
   align: right
@@ -24,8 +24,9 @@ latest_posts:
 ---
 
 <div
+  id="job-notice"
   style="
-    margin-bottom: 2rem;
+    margin-bottom: 1.5rem;
     padding: 0.85rem 1rem;
     border-left: 4px solid var(--global-theme-color);
     background-color: var(--global-code-bg-color);
@@ -34,6 +35,17 @@ latest_posts:
   <strong>I am looking for job opportunities starting July 2027.</strong>
   Feel free to reach out if you're hiring!
 </div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const notice = document.getElementById("job-notice");
+    const pageHeader = document.querySelector(".post-header");
+
+    if (notice && pageHeader) {
+      pageHeader.before(notice);
+    }
+  });
+</script>
 
 Hi! I am a PhD candidate at [Zhejiang University](https://www.zju.edu.cn/english/), College of Education, and expect to graduate in June 2027. I am supervised by **Fan Ouyang** and co-supervised by **Wenzhi Chen**, **Shouling Ji**, and **Zhengwei Liu**.
 
