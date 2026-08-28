@@ -1,4 +1,5 @@
 ---
+nav: false
 layout: page
 permalink: /repositories/
 title: repositories
