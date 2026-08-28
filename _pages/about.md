@@ -47,7 +47,7 @@ latest_posts:
   });
 </script>
 
-Hi! I am a PhD candidate at [Zhejiang University](https://www.zju.edu.cn/english/), College of Education, and expect to graduate in June 2027. I am supervised by **Fan Ouyang** and co-supervised by **Wenzhi Chen**, **Shouling Ji**, and **Zhengwei Liu**.
+Hi! I am a PhD candidate at Zhejiang University, College of Education, and expect to graduate in June 2027. I am supervised by [Fan Ouyang](https://scholar.google.com.hk/citations?hl=zh-CN&user=e-BjR6cAAAAJ) and co-supervised by [Wenzhi Chen](https://person.zju.edu.cn/chenwenzhi), [Shouling Ji](https://scholar.google.com.hk/citations?hl=zh-CN&user=5HoF_9oAAAAJ), and [Zhengwei Liu](https://person.zju.edu.cn/lzw).
 
 I was a visiting PhD student at the [Science of Learning in Education Centre (SoLEC)](https://www.ntu.edu.sg/nie/science-of-learning-in-education-centre), National Institute of Education, Nanyang Technological University. During my visit, I was supervised by [Teo Wei-Peng](https://scholar.google.com/citations?user=DPN-tT0AAAAJ&hl=en) and co-supervised by [Dragan Gašević](https://scholar.google.com/citations?user=Q4Nm22sAAAAJ&hl=en).
 
