@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: "PhD Candidate at Zhejiang University<br><span style='font-size: 0.95rem;'>liyinzhang (at) zju.edu.cn &nbsp;&nbsp; liyinzhang041 (at) gmail.com</span>"
 
